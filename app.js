@@ -13,7 +13,14 @@
         price: 2.95,
         description: 'Very valuable gem',
         canPurchase: true,
-        soldOut: false
+        soldOut: false,
+        images:[
+            {
+                full: 'img\\Dodecahedron.jpg'
+            }
+            
+        ]
+        
     },
     {
         name: 'Pentagonal Gem',
